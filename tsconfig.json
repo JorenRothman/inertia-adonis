@@ -9,6 +9,7 @@
     "outDir": "build",
     "rootDir": "./",
     "sourceMap": true,
+    "plugins": [{ "name": "typescript-plugin-css-modules" }],
     "paths": {
       "App/*": ["./app/*"],
       "Config/*": ["./config/*"],
