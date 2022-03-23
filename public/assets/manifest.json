@@ -1,0 +1,5 @@
+{
+  "assets/app.css": "http://localhost:8080/assets/app.css",
+  "assets/app.js": "http://localhost:8080/assets/app.js",
+  "assets/vendors-node_modules_inertiajs_inertia-react_dist_index_js-node_modules_mini-css-extract-plug-3cdcb3.js": "http://localhost:8080/assets/vendors-node_modules_inertiajs_inertia-react_dist_index_js-node_modules_mini-css-extract-plug-3cdcb3.js"
+}
