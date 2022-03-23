@@ -1,10 +1,11 @@
 import { Link } from '@inertiajs/inertia-react'
+import style from './style.module.css'
 
 const Test = () => {
   return (
     <div>
       <Link href="/">Home</Link>
-      <h1>Hi</h1>
+      <h1 className={style.title}>Hi</h1>
     </div>
   )
 }

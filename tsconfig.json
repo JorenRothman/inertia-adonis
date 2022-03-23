@@ -5,6 +5,7 @@
   "compilerOptions": {
     "lib": ["DOM"],
     "jsx": "react-jsx",
+    "plugins": [{ "name": "typescript-plugin-css-modules" }],
     "outDir": "build",
     "rootDir": "./",
     "sourceMap": true,
